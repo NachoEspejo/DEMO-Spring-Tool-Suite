@@ -49,7 +49,7 @@ public class DemoGreetings {
 * Para saber si esta funcionando y en qué puerto ha sido lanzado debemos mirar estas partes:
 ![ClassINFO](https://github.com/NachoEspejo/DEMO-Spring-Tool-Suite/blob/master/STS-IMG-Github/Screenshot%20(15).png)
 
-** Como podemos observar, nos esta diciendo que se ha lanzado en el puerto **_8080_**, y por consiguiente nos dirigiremos allí:
+Como podemos observar, nos esta diciendo que se ha lanzado en el puerto **_8080_**, y por consiguiente nos dirigiremos allí:
 
 ![ClassINFO](https://github.com/NachoEspejo/DEMO-Spring-Tool-Suite/blob/master/STS-IMG-Github/Screenshot%20(16).png)
 
