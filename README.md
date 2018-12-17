@@ -30,7 +30,7 @@
 
 ![Class](https://github.com/NachoEspejo/DEMO-Spring-Tool-Suite/blob/master/STS-IMG-Github/Screenshot%20(10).png)
 
-* Dentro de la .java que hemos creado previamente introducimos el siguiente código:
+* Dentro de la .java que hemos creado previamente introducimos el siguiente código y le damos a que lo lanze:
 ```
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -45,5 +45,13 @@ public class DemoGreetings {
 	}
 ```
 ![ClassINFO](https://github.com/NachoEspejo/DEMO-Spring-Tool-Suite/blob/master/STS-IMG-Github/Screenshot%20(14).png)
+
+* Para saber si esta funcionando y en qué puerto ha sido lanzado debemos mirar estas partes:
+![ClassINFO](https://github.com/NachoEspejo/DEMO-Spring-Tool-Suite/blob/master/STS-IMG-Github/Screenshot%20(15).png)
+
+** Como podemos observar, nos esta diciendo que se ha lanzado en el puerto **_8080_**, y por consiguiente nos dirigiremos allí:
+
+![ClassINFO](https://github.com/NachoEspejo/DEMO-Spring-Tool-Suite/blob/master/STS-IMG-Github/Screenshot%20(16).png)
+
 
 
